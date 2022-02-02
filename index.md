@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Orine7 Blog"
 ---
 
-I'm glad you are here. I plan to talk about ...
+My plan is to learn all of github's simple and proficient tools and then, create my very own site.
